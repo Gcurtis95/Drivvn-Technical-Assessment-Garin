@@ -144,13 +144,13 @@
 
 @media (min-width: 1600px) {
   .cardImage {
-    width: 16rem;
-    height: 22rem;
+    width: 20.625rem;
+    height: 28.75rem;
   }
 
 
   .cardPlaceholder {
-    width: 16rem;
-    height: 22rem;
+    width: 20.625rem;
+    height: 28.75rem;
   }
 }
