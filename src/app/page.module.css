@@ -140,3 +140,17 @@
   font-weight: bold;
   color: #000;
 }
+
+
+@media (min-width: 1600px) {
+  .cardImage {
+    width: 16rem;
+    height: 22rem;
+  }
+
+
+  .cardPlaceholder {
+    width: 16rem;
+    height: 22rem;
+  }
+}
